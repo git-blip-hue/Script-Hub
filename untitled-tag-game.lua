@@ -31,8 +31,7 @@ local Window = Rayfield:CreateWindow({
     KeySettings = {
         Title = "Untitled Tag Game - Key System",
         Subtitle = "Key Required",
-        Note = "Join our Discord to get the key!
-            https://discord.gg/CG25rNP46X",
+        Note = "Join our Discord to get the key!",
         FileName = "UntitledTagKey",
         SaveKey = true,
         GrabKeyFromSite = false,
