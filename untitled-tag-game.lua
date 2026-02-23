@@ -1,1 +1,548 @@
-return(function(...)local llIllIIlll={"\118\120\049\051\122\084\061\061","\111\116\048\113\078\073\052\066\108\053\102\080\108\079\061\061";"\110\110\118\089\083\109\071\072\043\084\061\061","\081\086\071\072\065\101\072\115\117\077\053\113\107\105\078\122";"\074\080\122\106\116\070\080\104\115\084\054\061";"\047\112\089\122\068\090\120\057\102\077\121\097\071\101\043\079","\070\066\086\105\101\109\061\061","\085\084\067\079\100\114\099\100\081\065\076\056";"\047\068\078\043";"\055\113\078\074\084\113\104\051\108\106\055\120\088\066\115\061";"\083\074\080\053\100\074\082\050\117\099\069\061";"\122\097\077\056\081\105\108\120\080\104\108\118","\057\056\077\078\057\114\077\117\052\048\087\122\113\079\061\061","\079\112\068\051\105\077\079\101\053\066\071\112\117\069\061\061";"\077\106\051\104\077\106\056\088\052\113\055\085\084\113\100\074";"\050\112\043\113\104\048\086\061","\108\106\107\104\088\116\052\074\047\098\056\122\088\079\061\061";"\050\084\097\090\069\075\049\048\097\067\075\106","\079\086\052\097\048\055\072\070\115\076\047\088\043\098\054\076\068\078\080\061";"\117\080\097\109\088\084\061\061";"\085\054\090\070\100\057\106\065\108\076\065\084","\084\113\107\057\108\068\086\119";"\097\049\116\078\075\089\114\055\115\105\121\117\097\122\105\108\076\084\061\061";"\113\118\118\110\121\118\047\061","\117\086\051\055\055\067\114\052\047\082\108\110","\098\067\054\117\052\112\103\083\122\118\086\061";"\118\121\101\050\122\122\073\077\090\116\090\084\110\069\066\076\103\118\104\080\109\047\104\067\106\068\113\054\071\069\061\061","\088\068\114\067\100\098\053\106\047\102\078\112\048\119\088\077","\070\049\084\073\114\109\061\061";"\103\117\067\071\105\043\070\074\117\105\101\119","\065\075\099\056\069\056\089\065\109\069\084\061","\065\085\108\097\105\053\106\088\066\043\110\051\054\113\082\088\119\075\054\061","\056\107\049\109\112\069\061\061";"\085\053\070\116\097\111\100\113\105\078\054\061","\054\115\083\090\102\072\102\057","\084\068\070\056\100\089\055\056\078\113\056\122\088\106\107\068","\116\070\099\090\101\090\082\101";"\047\098\078\090\108\068\088\056","\098\073\084\121\054\109\061\061","\073\079\104\106\113\119\080\043\076\113\066\100","\049\051\056\072\068\083\078\120\083\113\057\061","\116\056\104\100\109\078\050\114\065\106\114\100\108\113\103\110\066\098\086\117\047\084\061\061","\086\109\072\069\086\114\068\070\065\109\061\061","\100\079\113\113\089\082\071\075\066\103\043\048\118\109\061\061";"\113\087\102\089\053\071\120\051\104\076\057\061","\121\118\121\070\102\081\120\115\069\118\048\055";"\068\068\067\116\066\053\077\082\098\067\053\105\053\118\067\087\104\087\088\047\097\104\121\061";"\053\069\047\122\078\079\061\061";"","\052\056\105\049\052\082\072\113\109\097\109\054\120\069\061\061";"\117\116\104\075\066\116\070\087\099\111\051\106\047\098\078\053\099\069\061\061";"\052\118\066\083";"\071\070\122\076\110\066\113\070\076\053\076\089";"\089\055\120\119\049\108\051\109\089\115\057\061","\108\119\078\052\084\075\114\098\083\089\114\082\080\103\070\105\088\106\111\061";"\081\068\081\112\111\102\082\072\121\051\066\083\088\067\098\053\080\116\101\056\122\079\061\061";"\109\075\075\097\101\112\079\075\071\100\083\069\079\109\061\061","\053\118\084\076\100\077\108\099\110\104\075\073\114\075\084\061";"\118\109\056\108\081\073\101\047\115\115\080\084\049\074\052\068\121\074\084\122\049\109\066\105\067\068\118\078";"\075\072\087\117\047\075\072\072\081\090\106\122\100\089\088\109\097\117\043\051\106\084\061\061","\122\104\088\087\101\069\074\081\043\047\070\113","\114\043\054\050\099\084\061\061","\047\098\078\113\088\089\070\119\088\084\061\061","\108\067\078\066\065\119\072\078\086\103\057\097\081\074\107\057\110\053\106\086\071\057\074\086\103\118\099\120\109\052\084\103\118\103\075\102\086\112\088\121\054\077\074\066\117\073\055\112\114\112\066\071\074\087\116\049\069\115\121\102";"\118\106\073\066\086\057\072\072\051\052\075\070\065\084\061\061";"\099\098\107\074\083\066\088\112","\057\077\090\113\110\077\043\054\079\068\057\061";"\048\116\056\079\088\084\061\061";"\106\049\072\074\066\106\069\056\078\069\061\061","\099\113\079\074\078\119\077\115\117\114\069\112\110\119\080\120\099\068\047\061","\076\099\088\111\117\074\057\080\057\055\077\061";"\052\066\088\066\055\089\056\084\078\098\053\068\077\106\107\074\047\113\048\113","\086\080\119\071";"\084\068\070\056\100\089\055\056\077\113\082\051\088\106\078\120","\114\088\089\065\108\112\079\061";"\117\052\084\109\104\087\107\114\077\102\086\107\053\106\119\074\119\109\061\061","\047\113\056\122\083\069\061\061";"\109\113\052\115\118\079\061\061";"\114\089\070\115\053\050\080\053\055\050\075\079\052\072\069\100\106\105\122\116\055\115\119\049\101\110\047\061","\089\113\075\070\053\104\116\078\054\079\088\067","\056\055\116\057\104\090\074\068\048\079\106\120","\074\111\086\099\109\109\061\061";"\104\098\113\106\097\113\047\061";"\047\113\078\074\108\066\078\074\100\089\055\104\100\098\082\056";"\076\073\068\122\103\083\103\068\081\098\103\081\069\067\112\083\047\065\051\082\053\109\061\061","\078\050\099\075";"\110\066\112\119\048\106\114\122\100\113\077\061";"\097\052\118\082\047\099\121\074\111\081\109\117\122\100\066\054\120\108\097\050\108\099\080\050\084\100\074\061";"\048\107\078\111\084\116\079\061","\052\083\087\105\077\111\043\107\109\057\100\121","\102\089\086\084\056\114\101\081\106\114\073\056","\047\083\112\081\107\099\088\101\088\118\121\061";"\122\069\072\098\113\086\049\051\084\100\089\057\106\079\061\061";"\108\113\048\052\108\075\070\090\076\106\047\082\108\089\050\116\083\079\061\061";"\090\083\107\089\100\070\088\076\118\114\074\078\098\071\057\061","\111\079\104\104\070\075\055\119\048\078\109\061";"\084\116\069\116\088\082\055\083\102\056\084\061";"\083\056\077\080\116\069\072\105\056\065\056\088","\110\115\069\051\052\118\071\104\067\084\086\061","\081\098\085\080\076\088\082\119\081\053\050\077";"\119\068\099\103\056\072\053\107\102\054\103\100","\047\070\117\070\054\086\073\113\101\071\107\098\054\070\043\056\104\112\055\121\114\109\061\061","\054\068\111\049\077\117\085\119\121\084\061\061","\048\106\114\122\083\069\061\061";"\088\098\082\065\108\068\086\061","\053\083\090\088\057\116\104\088","\084\098\078\070","\110\074\088\103\076\067\104\090\080\106\107\078\084\111\070\102\110\111\077\061";"\078\066\052\104\047\075\111\113\047\053\056\117\055\067\086\082","\055\066\053\065\055\068\055\078\048\106\048\074\055\098\070\102","\108\066\114\115";"\110\098\053\068\080\106\078\083\055\103\090\049\048\113\078\043\108\113\057\061","\077\084\048\103\115\078\110\106\078\083\113\085\084\049\098\098\087\089\082\047\087\078\054\056\057\082\101\074\114\079\061\061";"\055\098\056\122\088\103\088\051\047\102\052\074\084\113\104\051\108\106\084\061","\050\119\047\116\119\071\104\057\048\069\061\061","\099\069\101\052\086\082\099\071\070\055\100\061";"\047\068\114\120\048\069\061\061","\114\079\087\048";"\088\076\087\076\072\072\104\117\043\097\085\076\109\078\082\097","\088\071\083\072\120\118\073\082\075\078\080\049\101\110\080\047\086\069\098\083";"\047\106\052\104\108\106\079\061","\109\075\103\097\087\089\105\109\100\117\043\071";"\117\113\065\118\105\084\061\061","\071\088\075\073\050\056\069\107\101\084\061\061";"\106\050\109\079\090\109\061\061","\057\052\104\089\099\085\119\084\106\088\057\061";"\068\068\084\078\072\107\052\107","\048\106\114\122","\075\085\054\098\057\088\077\099\090\101\052\112","\070\110\116\073\077\076\084\061","\074\077\113\054\079\122\119\100\103\055\047\122\076\098\099\110","\108\066\056\122","\065\054\051\065\070\068\079\072\115\115\078\067","\099\104\118\090\107\099\074\086\085\102\069\076";"\066\120\080\115\043\089\104\078\070\048\083\057\116\074\072\122\065\120\047\114\103\107\049\101\100\069\061\061";"\078\070\069\074";"\117\052\097\119\081\103\103\108\079\114\069\120\069\086\109\100\086\047\085\054\088\109\061\061";"\108\106\055\056\076\116\069\061";"\068\118\098\088","\108\106\078\122";"\078\066\048\090\048\077\088\083\077\074\078\112\088\098\082\090","\080\069\115\072\118\120\079\118\057\120\088\121","\120\049\076\107\115\072\089\112\050\106\055\090\098\054\074\117\113\072\122\117\104\088\110\080\087\081\077\085\082\108\103\109\111\106\065\056\118\081\121\061","\067\068\075\080\089\072\103\061";"\117\079\081\116\043\069\061\061","\117\109\061\061","\108\089\074\066\089\103\103\115\074\109\061\061";"\120\074\114\051\072\081\108\056\083\075\103\055\066\048\072\109\055\084\061\061","\054\104\087\114\075\105\117\100\111\110\116\085\100\079\061\061","\084\068\070\056\100\089\055\056\099\106\114\043\088\066\079\061";"\043\110\043\065\100\105\115\061";"\049\102\120\066\105\119\099\075\118\056\057\053\078\050\047\061","\048\074\088\103\076\077\088\111\077\114\051\110\077\068\078\105","\108\067\103\061";"\067\088\086\100\122\122\117\105\117\048\107\069";"\083\102\074\069\072\086\101\117\074\115\111\098";"\110\099\072\116\047\082\053\082\068\051\081\055";"\083\077\076\104\098\077\121\061";"\047\114\077\100\072\115\078\103\071\070\077\061";"\084\068\070\056\100\089\055\056\084\102\078\074\048\106\107\122";"\099\090\117\083\072\103\085\080\098\087\053\053\074\084\113\114\112\069\061\061","\112\097\079\069\110\047\103\061","\085\102\120\079\111\055\106\049\057\077\078\071\073\048\114\083\070\081\078\052\115\100\079\061";"\089\053\107\057\088\066\115\061";"\065\071\072\090";"\048\102\114\083\110\102\104\110\117\103\053\050\055\078\069\115\110\077\111\061";"\088\098\107\120\088\066\114\075\083\069\061\061","\054\054\114\077\100\071\120\122\050\084\061\061";"\103\068\087\078\101\079\061\061";"\065\055\090\097\087\097\090\069\056\057\115\061";"\047\113\056\122","\113\116\072\103\088\069\061\061","\065\077\103\113\076\082\122\108\121\097\086\061","\047\078\089\097\082\112\080\061","\100\113\104\104\047\109\061\061";"\066\111\114\055\083\074\053\075\048\078\109\112\076\103\055\118","\083\074\079\116\090\047\113\097\073\077\053\089\050\084\061\061","\119\109\111\065\051\048\108\104\114\108\097\079\052\084\061\061","\088\114\055\117\078\103\109\112\080\089\047\119\080\113\052\084\048\103\080\061";"\054\098\055\082";"\119\088\073\113\081\103\048\073\101\081\079\061","\100\055\087\098\069\069\061\061","\097\049\120\043\087\106\111\102\100\077\075\079\054\115\119\078\077\079\061\061";"\047\074\055\105\055\113\088\067\084\098\114\051\078\067\069\112";"\099\106\107\104\088\103\052\065\108\098\088\051\088\068\078\120\100\089\055\051\108\113\115\061";"\104\086\071\110\118\104\085\075","\102\065\068\071\079\043\074\057\121\118\085\071\104\110\103\117\099\084\066\049","\071\105\074\052\111\079\061\061";"\065\052\105\081\053\100\068\090\050\069\061\061";"\088\113\114\090\088\084\061\061","\115\084\104\057\111\098\109\061";"\103\079\056\079\072\097\110\083\072\118\071\088";"\043\097\100\087\074\090\057\085\104\086\086\101\072\100\082\100\052\109\118\054\054\088\072\107\048\051\057\121\084\109\061\061";"\081\108\122\069\103\054\120\050\081\117\081\053\097\069\061\061";"\103\051\071\067\043\048\068\082\114\089\111\061","\083\089\051\072\088\100\067\056\102\084\061\061";"\110\108\115\047\111\105\119\067\086\098\065\055","\080\056\084\043\083\084\061\061","\089\053\107\051\108\098\055\056\076\069\061\061","\048\089\050\079\088\089\086\061","\052\066\054\119\077\102\052\078\066\056\078\084\078\074\047\068\080\109\061\061";"\048\106\114\043\108\106\077\061","\071\111\089\102\106\110\097\082\077\087\077\061";"\115\067\118\109\070\078\051\083\081\069\061\061";"\099\050\109\048\084\084\061\061","\084\098\050\115\115\120\086\105\080\071\073\047\067\069\061\061";"\048\118\070\103\084\053\073\106\085\110\076\114\085\081\122\071";"\066\067\111\119\110\116\114\086\052\113\070\105\100\075\114\053\110\069\061\061";"\088\078\104\088\109\099\116\118\105\097\084\061";"\083\057\047\112\082\069\061\061";"\047\108\077\049\109\069\061\061","\076\117\102\090\122\087\050\081\069\109\061\061";"\112\121\051\079\088\110\097\119\110\048\111\104\112\118\057\066\073\072\107\112\106\109\061\061","\118\069\049\110\122\118\065\057\108\119\109\061";"\053\067\067\057\118\102\118\055\100\071\106\048","\100\077\055\118\052\116\114\106\052\068\088\070\066\056\056\106\108\106\086\061";"\079\069\050\097\053\072\079\074\077\115\090\073\120\098\075\078\120\111\098\102\074\083\051\047\108\098\066\106\112\048\087\120\102\082\050\043";"\122\053\121\078\108\114\119\098\090\069\083\121\110\103\086\121","\104\117\073\121";"\110\082\108\056\087\054\081\090\089\069\061\061","\082\054\105\117\079\098\071\075\088\101\101\053\118\089\048\087";"\108\065\099\098\089\050\080\068\120\104\085\099\083\113\087\103\054\084\061\061";"\117\077\056\098\117\099\050\074\052\077\079\112\084\077\086\119\078\113\047\061";"\047\106\107\068","\067\109\071\084\056\082\082\121\081\080\073\089\084\108\051\088\071\069\052\066\109\109\061\061","\108\106\107\068\088\089\086\061","\048\106\114\119\083\079\061\061","\055\066\112\053\108\084\061\061","\088\089\070\120\108\068\086\061","\088\098\107\120\108\066\114\074","\079\053\049\086","\043\117\086\057\108\079\097\102\121\053\101\051\071\052\073\067\080\080\069\061";"\083\114\068\099\120\069\061\061";"\088\078\078\118\047\102\070\057\052\089\111\053\108\078\114\071\078\079\061\061","\112\109\098\054\118\077\120\076\109\106\098\098","\085\083\109\055\086\088\087\080\120\100\085\119\066\069\061\061","\088\098\056\122\088\069\061\061","\102\110\116\085\078\067\053\090\055\077\052\068","\048\113\107\120\083\068\052\079\100\066\052\056","\070\103\117\071";"\072\120\121\071\074\084\061\061";"\088\102\078\122\100\068\055\051\108\113\115\061";"\086\102\057\086\089\047\107\073\088\100\115\061","\108\053\111\108\053\103\111\049\055\097\067\070\111\069\061\061";"\048\074\054\098\077\077\069\069\054\069\061\061";"\084\098\084\076\116\114\122\105\097\084\103\061","\050\107\068\117\117\075\057\061";"\069\086\047\103","\098\121\114\051\113\056\068\049\055\067\072\057\055\048\080\061";"\070\107\075\114\054\100\078\122\056\103\101\110\103\055\078\116\043\053\057\085\081\085\085\111\073\100\083\101\107\097\069\066\057\049\069\061","\117\050\074\084\052\084\061\061","\076\078\114\078\088\103\056\056\100\089\100\053\052\066\070\054\083\109\061\061";"\051\098\077\068\114\071\071\076\114\090\077\061","\069\080\098\069\119\083\072\056\053\052\088\089";"\047\098\114\122\088\106\107\090","\103\080\121\069\076\080\057\055\103\121\121\061","\070\048\100\102";"\097\070\121\053\112\120\100\118\119\090\088\120","\053\050\089\049\122\069\111\097\090\069\061\061";"\070\086\070\087\047\056\117\077\085\108\047\061";"\100\071\070\118\052\084\061\061";"\107\097\085\115\051\082\109\057\115\116\081\119","\067\077\057\082\053\118\090\114\065\105\077\102\080\076\079\099","\090\050\050\107\085\109\061\061";"\084\068\070\056\100\089\055\056\077\113\078\075\048\106\056\065\108\109\061\061";"\083\048\104\066\047\080\052\071\109\052\084\061";"\050\103\114\053\113\109\061\061","\113\082\066\054\053\079\061\061","\065\068\051\054\085\121\047\061","\116\079\072\119\122\069\061\061","\052\052\119\052\099\067\099\098\082\115\104\053";"\078\083\068\057\111\065\100\084\098\047\121\066\114\071\049\112\110\069\061\061";"\089\113\084\110\100\071\074\110\072\072\110\083\086\073\121\089";"\077\077\112\074\080\068\050\079\108\106\078\083\076\078\078\065\100\079\061\061";"\122\119\077\106\070\043\056\112\071\117\097\065";"\107\075\113\090\108\049\083\043\111\073\121\061","\121\088\066\103\104\074\084\083\078\114\069\065\118\065\115\121\074\080\074\061";"\100\113\111\115\098\105\082\106\101\109\061\061";"\065\047\049\047\056\075\113\082\079\075\074\061","\086\103\119\098\084\078\085\056\068\079\090\102";"\080\074\114\114\077\102\104\114\048\074\082\050\083\053\104\078\052\084\061\061","\080\074\119\050\084\105\086\061","\050\115\067\119\105\109\061\061","\080\116\056\102\048\098\112\077\088\102\070\043\110\111\082\114\052\069\061\061","\047\106\114\051\047\102\080\061";"\098\115\054\051\048\079\073\050\072\122\084\090","\074\111\120\118\078\057\084\056\069\088\057\061";"\108\066\114\074\083\069\061\061";"\055\113\078\074\055\106\078\119\100\113\078\122\088\106\114\122\048\116\080\061","\086\071\087\066\101\122\110\067\082\084\061\061";"\119\109\061\061","\085\120\074\073\099\103\105\109\048\057\089\082\051\109\061\061","\079\098\075\087\103\103\120\076\073\122\088\068\049\099\106\085\071\065\081\056\117\109\061\061";"\100\098\107\051\086\106\055\065\108\102\084\109\048\116\070\112\108\098\103\109\047\113\090\051\088\049\050\074\083\106\056\119\086\116\052\054\083\089\084\061","\048\106\107\119\048\116\070\051\108\098\047\061";"\053\065\115\102\099\109\061\061";"\074\072\082\089","\107\109\068\073\102\118\119\070\112\043\109\061";"\089\075\069\118\110\098\121\061","\098\121\052\086\090\102\121\052\068\104\055\071\085\108\086\112\054\108\101\054";"\077\117\085\105\077\109\061\061","\047\068\055\120\083\066\112\102";"\048\074\082\102\108\119\052\067\099\077\048\111\052\077\114\043\066\109\061\061";"\070\078\085\117\102\048\108\122\090\067\113\051\110\101\056\071\113\082\068\104\082\073\110\086\047\109\061\061";"\100\077\112\051\047\111\090\086\080\103\053\043\047\066\088\066\055\084\061\061","\098\106\116\054\049\084\061\061";"\108\106\107\070\082\118\043\054\083\068\086\084\090\070\110\112\084\084\061\061";"\099\068\114\120\110\106\070\114\078\074\055\098\108\113\112\100\076\106\084\061";"\104\110\114\048\052\109\061\061","\078\074\112\057\083\098\112\115\108\113\047\074\052\098\090\065\083\056\077\061","\115\113\067\083\075\102\121\061","\047\106\055\057\047\098\078\052\108\053\114\070\077\119\052\102\099\074\121\061","\081\109\061\061","\114\099\072\073\120\079\061\061","\080\081\119\074\087\115\099\088";"\068\077\107\043\081\121\087\073\075\078\089\077\090\080\112\065\071\114\105\101\109\079\061\061";"\050\067\118\069\107\069\061\061","\115\102\106\076\121\079\088\081\054\076\085\065\070\109\043\056";"\048\072\054\070\055\109\061\061";"\089\054\077\089\117\099\069\090\118\052\103\061","\089\097\106\105\055\099\084\090\043\084\061\061";"\108\066\107\111\088\109\061\061";"\086\078\116\078\120\081\051\115";"\084\074\088\120\100\066\053\056";"\100\102\056\074\088\084\061\061";"\043\082\069\103\112\105\079\073";"\079\115\108\076\105\056\055\110\089\115\105\075","\070\079\070\053\110\120\111\111\111\100\119\097","\110\089\052\050","\055\112\048\100\112\067\071\056\067\088\120\054","\065\121\107\089\097\079\105\111\112\054\115\061","\085\115\048\057\111\089\080\089";"\053\068\121\054\117\078\055\076\120\105\056\115\070\114\079\061";"\089\055\114\117\097\114\079\049\102\107\114\122";"\075\043\103\048\097\115\105\118","\078\106\078\057\088\089\050\065\047\102\084\061";"\080\053\109\119\047\102\050\116\088\111\104\071\055\099\055\043\077\109\061\061";"\078\107\114\112\115\067\078\052\078\097\049\113\065\098\104\056\087\069\104\079\115\079\061\061";"\043\106\078\119\069\052\054\107\065\067\056\102\109\049\106\098\101\118\121\070\118\098\052\070\121\069\061\061","\078\113\114\051\048\103\088\065\047\111\052\054\083\066\082\111","\052\067\052\110\083\099\103\068\083\103\053\115\047\067\078\066","\081\104\103\110\057\119\054\114\066\050\057\061";"\109\073\110\099\072\105\089\110\086\116\088\098\066\118\082\056\104\050\090\050\071\122\102\113\056\066\067\119\081\109\061\061","\090\085\119\082\069\116\080\047","\047\053\056\119\080\116\100\120\110\102\078\052\110\103\088\111\083\114\111\061","\112\117\101\111\106\079\061\061";"\048\103\053\086\077\119\048\049\077\053\070\101\048\075\055\116","\077\043\119\119","\099\076\067\052\108\084\061\061","\078\098\078\075\048\106\107\120\080\079\061\061","\122\114\111\076\111\086\117\083\120\079\061\061","\103\115\078\102\056\069\061\061";"\121\082\103\122\048\072\116\112\066\084\061\061";"\075\110\086\101\043\047\084\102\119\088\072\070\111\102\122\108\090\109\061\061","\081\115\074\108\075\052\051\105\110\122\077\061","\122\101\103\121\055\066\087\086\052\073\121\043\069\101\102\106\118\090\068\075\103\081\107\066\073\066\116\075","\074\056\086\047\108\116\048\073\080\109\083\
+--[[
+    Untitled Tag Game Script
+    UI Library: Rayfield
+    Features: Key System, ESP, Speed, Teleports, Auto Features
+]]
+
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+
+local Window = Rayfield:CreateWindow({
+    Name = "Untitled Tag Game Hub",
+    Icon = "tag",
+    LoadingTitle = "Untitled Tag Game Script",
+    LoadingSubtitle = "by Script Hub",
+    Theme = "Default",
+    DisableRayfieldPrompts = false,
+    DisableBuildWarnings = false,
+
+    ConfigurationSaving = {
+        Enabled = true,
+        FolderName = "UntitledTagGame",
+        FileName = "Config"
+    },
+
+    Discord = {
+        Enabled = false,
+        Invite = "",
+        RememberJoins = true
+    },
+
+    KeySystem = true,
+    KeySettings = {
+        Title = "Untitled Tag Game - Key System",
+        Subtitle = "Key Required",
+        Note = "Join our Discord to get the key!",
+        FileName = "UntitledTagKey",
+        SaveKey = true,
+        GrabKeyFromSite = false,
+        Key = {"UntitledTag2024", "FreeKey123", "TagGameVIP"}
+    }
+})
+
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local TweenService = game:GetService("TweenService")
+local UserInputService = game:GetService("UserInputService")
+local LocalPlayer = Players.LocalPlayer
+
+local ESPEnabled = false
+local ESPColor = Color3.fromRGB(255, 0, 0)
+local TaggerESPColor = Color3.fromRGB(255, 0, 0)
+local RunnerESPColor = Color3.fromRGB(0, 255, 0)
+local SpeedEnabled = false
+local SpeedValue = 16
+local JumpEnabled = false
+local JumpValue = 50
+local NoClipEnabled = false
+local AutoTagEnabled = false
+local AutoEvadeEnabled = false
+
+local ESPFolder = Instance.new("Folder")
+ESPFolder.Name = "ESP_Folder"
+ESPFolder.Parent = game.CoreGui
+
+local function CreateESP(player)
+    if player == LocalPlayer then return end
+    
+    local function SetupESP()
+        if not player.Character or not player.Character:FindFirstChild("HumanoidRootPart") then return end
+        
+        local existingESP = ESPFolder:FindFirstChild(player.Name .. "_ESP")
+        if existingESP then existingESP:Destroy() end
+        
+        local highlight = Instance.new("Highlight")
+        highlight.Name = player.Name .. "_ESP"
+        highlight.Adornee = player.Character
+        highlight.FillTransparency = 0.5
+        highlight.OutlineTransparency = 0
+        highlight.Parent = ESPFolder
+        
+        local billboardGui = Instance.new("BillboardGui")
+        billboardGui.Name = player.Name .. "_NameESP"
+        billboardGui.Adornee = player.Character:FindFirstChild("Head")
+        billboardGui.Size = UDim2.new(0, 100, 0, 40)
+        billboardGui.StudsOffset = Vector3.new(0, 2, 0)
+        billboardGui.AlwaysOnTop = true
+        billboardGui.Parent = ESPFolder
+        
+        local nameLabel = Instance.new("TextLabel")
+        nameLabel.Name = "NameLabel"
+        nameLabel.Size = UDim2.new(1, 0, 0.5, 0)
+        nameLabel.BackgroundTransparency = 1
+        nameLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+        nameLabel.TextStrokeTransparency = 0
+        nameLabel.Font = Enum.Font.GothamBold
+        nameLabel.TextSize = 14
+        nameLabel.Text = player.Name
+        nameLabel.Parent = billboardGui
+        
+        local distanceLabel = Instance.new("TextLabel")
+        distanceLabel.Name = "DistanceLabel"
+        distanceLabel.Size = UDim2.new(1, 0, 0.5, 0)
+        distanceLabel.Position = UDim2.new(0, 0, 0.5, 0)
+        distanceLabel.BackgroundTransparency = 1
+        distanceLabel.TextColor3 = Color3.fromRGB(200, 200, 200)
+        distanceLabel.TextStrokeTransparency = 0
+        distanceLabel.Font = Enum.Font.Gotham
+        distanceLabel.TextSize = 12
+        distanceLabel.Text = "0 studs"
+        distanceLabel.Parent = billboardGui
+        
+        highlight.FillColor = ESPColor
+        highlight.OutlineColor = ESPColor
+    end
+    
+    SetupESP()
+    player.CharacterAdded:Connect(function()
+        task.wait(0.5)
+        SetupESP()
+    end)
+end
+
+local function UpdateESP()
+    if not ESPEnabled then
+        for _, esp in pairs(ESPFolder:GetChildren()) do
+            esp:Destroy()
+        end
+        return
+    end
+    
+    for _, player in pairs(Players:GetPlayers()) do
+        if player ~= LocalPlayer and player.Character then
+            local esp = ESPFolder:FindFirstChild(player.Name .. "_ESP")
+            local nameESP = ESPFolder:FindFirstChild(player.Name .. "_NameESP")
+            
+            if not esp then
+                CreateESP(player)
+            end
+            
+            if nameESP and LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart") then
+                local distLabel = nameESP:FindFirstChild("DistanceLabel")
+                if distLabel and player.Character:FindFirstChild("HumanoidRootPart") then
+                    local distance = (LocalPlayer.Character.HumanoidRootPart.Position - player.Character.HumanoidRootPart.Position).Magnitude
+                    distLabel.Text = math.floor(distance) .. " studs"
+                end
+            end
+        end
+    end
+end
+
+local function ToggleNoClip(enabled)
+    if enabled then
+        RunService.Stepped:Connect(function()
+            if NoClipEnabled and LocalPlayer.Character then
+                for _, part in pairs(LocalPlayer.Character:GetDescendants()) do
+                    if part:IsA("BasePart") then
+                        part.CanCollide = false
+                    end
+                end
+            end
+        end)
+    end
+end
+
+local function GetClosestPlayer()
+    local closestPlayer = nil
+    local closestDistance = math.huge
+    
+    if not LocalPlayer.Character or not LocalPlayer.Character:FindFirstChild("HumanoidRootPart") then
+        return nil
+    end
+    
+    for _, player in pairs(Players:GetPlayers()) do
+        if player ~= LocalPlayer and player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
+            local distance = (LocalPlayer.Character.HumanoidRootPart.Position - player.Character.HumanoidRootPart.Position).Magnitude
+            if distance < closestDistance then
+                closestDistance = distance
+                closestPlayer = player
+            end
+        end
+    end
+    
+    return closestPlayer, closestDistance
+end
+
+local function TeleportToPlayer(player)
+    if player and player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
+        if LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart") then
+            LocalPlayer.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame * CFrame.new(0, 0, 3)
+        end
+    end
+end
+
+local MainTab = Window:CreateTab("Main", "home")
+local ESPTab = Window:CreateTab("ESP", "eye")
+local MovementTab = Window:CreateTab("Movement", "zap")
+local TeleportTab = Window:CreateTab("Teleport", "map-pin")
+local MiscTab = Window:CreateTab("Misc", "settings")
+
+MainTab:CreateSection("Auto Features")
+
+local AutoTagToggle = MainTab:CreateToggle({
+    Name = "Auto Tag (When Tagger)",
+    CurrentValue = false,
+    Flag = "AutoTag",
+    Callback = function(Value)
+        AutoTagEnabled = Value
+    end,
+})
+
+local AutoEvadeToggle = MainTab:CreateToggle({
+    Name = "Auto Evade (When Runner)",
+    CurrentValue = false,
+    Flag = "AutoEvade",
+    Callback = function(Value)
+        AutoEvadeEnabled = Value
+    end,
+})
+
+MainTab:CreateSection("Quick Actions")
+
+MainTab:CreateButton({
+    Name = "Teleport to Closest Player",
+    Callback = function()
+        local closest = GetClosestPlayer()
+        if closest then
+            TeleportToPlayer(closest)
+            Rayfield:Notify({
+                Title = "Teleported",
+                Content = "Teleported to " .. closest.Name,
+                Duration = 3,
+                Image = "check",
+            })
+        else
+            Rayfield:Notify({
+                Title = "Error",
+                Content = "No players found!",
+                Duration = 3,
+                Image = "x",
+            })
+        end
+    end,
+})
+
+MainTab:CreateButton({
+    Name = "Rejoin Server",
+    Callback = function()
+        Rayfield:Notify({
+            Title = "Rejoining",
+            Content = "Rejoining server...",
+            Duration = 2,
+            Image = "refresh-cw",
+        })
+        task.wait(1)
+        game:GetService("TeleportService"):Teleport(game.PlaceId, LocalPlayer)
+    end,
+})
+
+ESPTab:CreateSection("Player ESP")
+
+local ESPToggle = ESPTab:CreateToggle({
+    Name = "Enable ESP",
+    CurrentValue = false,
+    Flag = "ESP",
+    Callback = function(Value)
+        ESPEnabled = Value
+        UpdateESP()
+    end,
+})
+
+local ESPColorPicker = ESPTab:CreateColorPicker({
+    Name = "ESP Color",
+    Color = Color3.fromRGB(255, 0, 0),
+    Flag = "ESPColor",
+    Callback = function(Value)
+        ESPColor = Value
+        for _, esp in pairs(ESPFolder:GetChildren()) do
+            if esp:IsA("Highlight") then
+                esp.FillColor = Value
+                esp.OutlineColor = Value
+            end
+        end
+    end,
+})
+
+ESPTab:CreateSection("ESP Settings")
+
+local TaggerColorPicker = ESPTab:CreateColorPicker({
+    Name = "Tagger Color",
+    Color = Color3.fromRGB(255, 0, 0),
+    Flag = "TaggerColor",
+    Callback = function(Value)
+        TaggerESPColor = Value
+    end,
+})
+
+local RunnerColorPicker = ESPTab:CreateColorPicker({
+    Name = "Runner Color",
+    Color = Color3.fromRGB(0, 255, 0),
+    Flag = "RunnerColor",
+    Callback = function(Value)
+        RunnerESPColor = Value
+    end,
+})
+
+MovementTab:CreateSection("Speed")
+
+local SpeedToggle = MovementTab:CreateToggle({
+    Name = "Enable Speed",
+    CurrentValue = false,
+    Flag = "Speed",
+    Callback = function(Value)
+        SpeedEnabled = Value
+        if LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("Humanoid") then
+            LocalPlayer.Character.Humanoid.WalkSpeed = Value and SpeedValue or 16
+        end
+    end,
+})
+
+local SpeedSlider = MovementTab:CreateSlider({
+    Name = "Speed Value",
+    Range = {16, 200},
+    Increment = 1,
+    CurrentValue = 16,
+    Flag = "SpeedValue",
+    Callback = function(Value)
+        SpeedValue = Value
+        if SpeedEnabled and LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("Humanoid") then
+            LocalPlayer.Character.Humanoid.WalkSpeed = Value
+        end
+    end,
+})
+
+MovementTab:CreateSection("Jump")
+
+local JumpToggle = MovementTab:CreateToggle({
+    Name = "Enable Jump Power",
+    CurrentValue = false,
+    Flag = "Jump",
+    Callback = function(Value)
+        JumpEnabled = Value
+        if LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("Humanoid") then
+            LocalPlayer.Character.Humanoid.JumpPower = Value and JumpValue or 50
+        end
+    end,
+})
+
+local JumpSlider = MovementTab:CreateSlider({
+    Name = "Jump Power Value",
+    Range = {50, 300},
+    Increment = 1,
+    CurrentValue = 50,
+    Flag = "JumpValue",
+    Callback = function(Value)
+        JumpValue = Value
+        if JumpEnabled and LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("Humanoid") then
+            LocalPlayer.Character.Humanoid.JumpPower = Value
+        end
+    end,
+})
+
+MovementTab:CreateSection("NoClip")
+
+local NoClipToggle = MovementTab:CreateToggle({
+    Name = "Enable NoClip",
+    CurrentValue = false,
+    Flag = "NoClip",
+    Callback = function(Value)
+        NoClipEnabled = Value
+        if Value then
+            ToggleNoClip(true)
+        end
+    end,
+})
+
+TeleportTab:CreateSection("Player Teleport")
+
+local playerList = {}
+for _, player in pairs(Players:GetPlayers()) do
+    if player ~= LocalPlayer then
+        table.insert(playerList, player.Name)
+    end
+end
+
+local SelectedPlayer = nil
+
+local PlayerDropdown = TeleportTab:CreateDropdown({
+    Name = "Select Player",
+    Options = playerList,
+    CurrentOption = {},
+    MultipleOptions = false,
+    Flag = "SelectedPlayer",
+    Callback = function(Option)
+        SelectedPlayer = Players:FindFirstChild(Option[1])
+    end,
+})
+
+Players.PlayerAdded:Connect(function(player)
+    if player ~= LocalPlayer then
+        table.insert(playerList, player.Name)
+        PlayerDropdown:Refresh(playerList)
+    end
+end)
+
+Players.PlayerRemoving:Connect(function(player)
+    for i, name in pairs(playerList) do
+        if name == player.Name then
+            table.remove(playerList, i)
+            break
+        end
+    end
+    PlayerDropdown:Refresh(playerList)
+end)
+
+TeleportTab:CreateButton({
+    Name = "Teleport to Selected Player",
+    Callback = function()
+        if SelectedPlayer then
+            TeleportToPlayer(SelectedPlayer)
+            Rayfield:Notify({
+                Title = "Teleported",
+                Content = "Teleported to " .. SelectedPlayer.Name,
+                Duration = 3,
+                Image = "check",
+            })
+        else
+            Rayfield:Notify({
+                Title = "Error",
+                Content = "Please select a player first!",
+                Duration = 3,
+                Image = "x",
+            })
+        end
+    end,
+})
+
+TeleportTab:CreateSection("Location Teleport")
+
+TeleportTab:CreateButton({
+    Name = "Teleport to Spawn",
+    Callback = function()
+        local spawn = workspace:FindFirstChild("SpawnLocation") or workspace:FindFirstChildOfClass("SpawnLocation")
+        if spawn and LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart") then
+            LocalPlayer.Character.HumanoidRootPart.CFrame = spawn.CFrame + Vector3.new(0, 3, 0)
+            Rayfield:Notify({
+                Title = "Teleported",
+                Content = "Teleported to spawn!",
+                Duration = 3,
+                Image = "check",
+            })
+        end
+    end,
+})
+
+MiscTab:CreateSection("Visuals")
+
+MiscTab:CreateToggle({
+    Name = "Fullbright",
+    CurrentValue = false,
+    Flag = "Fullbright",
+    Callback = function(Value)
+        local lighting = game:GetService("Lighting")
+        if Value then
+            lighting.Brightness = 2
+            lighting.ClockTime = 14
+            lighting.FogEnd = 100000
+            lighting.GlobalShadows = false
+        else
+            lighting.Brightness = 1
+            lighting.GlobalShadows = true
+        end
+    end,
+})
+
+MiscTab:CreateSection("Character")
+
+MiscTab:CreateButton({
+    Name = "Reset Character",
+    Callback = function()
+        if LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("Humanoid") then
+            LocalPlayer.Character.Humanoid.Health = 0
+        end
+    end,
+})
+
+MiscTab:CreateButton({
+    Name = "Refresh Player List",
+    Callback = function()
+        playerList = {}
+        for _, player in pairs(Players:GetPlayers()) do
+            if player ~= LocalPlayer then
+                table.insert(playerList, player.Name)
+            end
+        end
+        PlayerDropdown:Refresh(playerList)
+        Rayfield:Notify({
+            Title = "Refreshed",
+            Content = "Player list updated!",
+            Duration = 3,
+            Image = "refresh-cw",
+        })
+    end,
+})
+
+MiscTab:CreateSection("Script Info")
+
+MiscTab:CreateLabel("Script Version: 1.0.0")
+MiscTab:CreateLabel("Game: Untitled Tag Game")
+
+MiscTab:CreateButton({
+    Name = "Destroy Script",
+    Callback = function()
+        Rayfield:Destroy()
+        ESPFolder:Destroy()
+    end,
+})
+
+RunService.RenderStepped:Connect(function()
+    if ESPEnabled then
+        UpdateESP()
+    end
+    
+    if SpeedEnabled and LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("Humanoid") then
+        LocalPlayer.Character.Humanoid.WalkSpeed = SpeedValue
+    end
+    
+    if JumpEnabled and LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("Humanoid") then
+        LocalPlayer.Character.Humanoid.JumpPower = JumpValue
+    end
+end)
+
+LocalPlayer.CharacterAdded:Connect(function(character)
+    task.wait(0.5)
+    if SpeedEnabled then
+        character:WaitForChild("Humanoid").WalkSpeed = SpeedValue
+    end
+    if JumpEnabled then
+        character:WaitForChild("Humanoid").JumpPower = JumpValue
+    end
+end)
+
+Rayfield:LoadConfiguration()
+
+Rayfield:Notify({
+    Title = "Script Loaded",
+    Content = "Untitled Tag Game script loaded successfully!",
+    Duration = 5,
+    Image = "check",
+})
